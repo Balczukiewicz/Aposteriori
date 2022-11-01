@@ -1,6 +1,9 @@
 # Apriori
 
-**TODO: Add description**
+# How to run project:
+mix deps.get
+iex -S mix
+Apriori.aposteriori(number1, number2)
 
 ## Installation
 
